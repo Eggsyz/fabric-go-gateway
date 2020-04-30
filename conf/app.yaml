@@ -1,0 +1,7 @@
+port: 8080
+orgName: org1
+userName: admin
+# sdk.yaml path
+sdkCfgPath: conf/sdk.yaml
+level: info
+logPath: ./fabric-go-gateway.log
